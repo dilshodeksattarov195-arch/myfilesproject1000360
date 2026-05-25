@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersalculate",
+        "uuid": 3501360,
+        "checksum": "sl24g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
